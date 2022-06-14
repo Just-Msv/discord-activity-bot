@@ -1,0 +1,15 @@
+{
+  "name": "discord-activity-bot",
+  "version": "1.0.0",
+  "description": "a Discord activity bot",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^15.0.0"
+  }
+}
